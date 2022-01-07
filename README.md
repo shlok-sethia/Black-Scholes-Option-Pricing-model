@@ -12,7 +12,7 @@ It is defined as the expected future volatility of the stock over the life of th
 
 # Option Greeks
 
-Delta: the sensitivity of an option’s price changes relative to the changes in the underlying asset’s price.
+Delta: the sensitivity of an option’s price changes relative to the changes in the underlying asset’s price. <br>
 Gamma: the delta’s change relative to the changes in the price of the underlying asset.
 Vega: the sensitivity of an option price relative to the volatility of the underlying asset.
 Theta: the sensitivity of the option price relative to the option’s time to maturity.
