@@ -13,9 +13,9 @@ It is defined as the expected future volatility of the stock over the life of th
 # Option Greeks
 
 Delta: the sensitivity of an option’s price changes relative to the changes in the underlying asset’s price. <br>
-Gamma: the delta’s change relative to the changes in the price of the underlying asset.
-Vega: the sensitivity of an option price relative to the volatility of the underlying asset.
-Theta: the sensitivity of the option price relative to the option’s time to maturity.
-Rho: the sensitivity of the option price relative to interest rates.
+Gamma: the delta’s change relative to the changes in the price of the underlying asset. <br>
+Vega: the sensitivity of an option price relative to the volatility of the underlying asset. <br>
+Theta: the sensitivity of the option price relative to the option’s time to maturity. <br>
+Rho: the sensitivity of the option price relative to interest rates. <br>
 
 ![image](https://user-images.githubusercontent.com/81409900/148497511-ca29f673-6ad3-4157-a796-8a64dd6573cd.png)
